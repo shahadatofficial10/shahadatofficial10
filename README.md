@@ -23,6 +23,4 @@ I’m currently working on Website Design & Development also learning Javascript
   
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shahadatofficial10)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/shahadatofficial10/contributions?format=svg&private=true)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahadatofficial10)](https://github.com/ryo-ma/github-profile-trophy)
