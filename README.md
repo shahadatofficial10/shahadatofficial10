@@ -42,3 +42,6 @@ I’m currently working on Website Design & Development also learning Javascript
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shahadatofficial10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
